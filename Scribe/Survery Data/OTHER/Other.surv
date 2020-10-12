@@ -1,0 +1,48 @@
+{
+    "AdditionalFields": {
+        "FieldNames": [
+            "COMMENTS"
+        ],
+        "FieldValues": [
+            [
+            ]
+        ]
+    },
+    "GroupingsNumber": 1,
+    "GroupingsValue0": "Open;",
+    "Headers": {
+        "FieldNames": [
+            "YEAR",
+            "MONTH",
+            "DAY",
+            "OBS",
+            "SEAT",
+            "AREA",
+            "STATE"
+        ],
+        "FieldValues": [
+            [
+                "2019"
+            ],
+            [
+                "09"
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ]
+        ]
+    },
+    "SpeciesNumber": 5,
+    "SpeciesValue0": "ADSWAN;M;true",
+    "SpeciesValue1": "CYGNET;C;false",
+    "SpeciesValue2": "SHCR;D;true",
+    "SpeciesValue3": "BEGCOUNT;,;false",
+    "SpeciesValue4": "ENDCOUNT;.;false"
+}

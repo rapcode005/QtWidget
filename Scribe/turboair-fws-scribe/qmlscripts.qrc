@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/gps">
+        <file>main.qml</file>
+        <file>Waypoint.qml</file>
+        <file>WayHandler.qml</file>
+        <file>Waypath.qml</file>
+        <file>PathOfInterest.qml</file>
+        <file>PilotMarker.qml</file>
+        <file>TransectBox.qml</file>
+        <file>Point.qml</file>
+        <file>main_copy.qml</file>
+        <file>Wavpoint.qml</file>
+        <file>WavItemView.qml</file>
+        <file>SurveyLine.qml</file>
+        <file>AirGroundLine.qml</file>
+        <file>helper.js</file>
+        <file>SurveyPolygon.qml</file>
+        <file>SurveyLineGOEA.qml</file>
+        <file>WavCircle.qml</file>
+        <file>SurveyLineSegment.qml</file>
+        <file>AgCircle.qml</file>
+    </qresource>
+    <qresource prefix="/img/map">
+        <file>bookmark.png</file>
+        <file>deletebutton.png</file>
+        <file>pilot.png</file>
+        <file>waypoint.png</file>
+        <file>label.png</file>
+        <file>zoom.png</file>
+        <file>wavblue.png</file>
+        <file>wavred.png</file>
+        <file>wavyellow.png</file>
+        <file>pin_locked.png</file>
+        <file>pin_selected.png</file>
+        <file>pin_unselected.png</file>
+        <file>blueline.png</file>
+        <file>redline.png</file>
+        <file>scale.png</file>
+        <file>scale_end.png</file>
+        <file>hline.png</file>
+        <file>yellowline.png</file>
+        <file>bluedot.png</file>
+        <file>Icon-feather-minimize.png</file>
+        <file>Icon-feather-maximize.png</file>
+        <file>Icon-feather-map.png</file>
+        <file>Icon-exportmap.png</file>
+    </qresource>
+    <qresource prefix="/img/misc">
+        <file>scribeIconFlipped.png</file>
+        <file>Icon ionic-md-skip-forward.png</file>
+        <file>Icon ionic-md-skip-backward.png</file>
+        <file>Icon awesome-folder.png</file>
+        <file>Icon ionic-md-play.png</file>
+        <file>Icon open-menu.png</file>
+        <file>Icon ionic-md-pause.png</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>WBPHS.surv</file>
+        <file>BAEA.surv</file>
+        <file>GOEA.surv</file>
+        <file>Other.surv</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

@@ -1,0 +1,60 @@
+{
+    "AdditionalFields": {
+        "FieldNames": [
+            "Comments"
+        ],
+        "FieldValues": [
+            []
+        ],
+        "FieldValuesChecked": [
+            ["2"]
+        ]
+    },
+    "GroupingsNumber": 1,
+    "GroupingsValue0": "Open;",
+    "Headers": {
+        "FieldNames": [
+            "Year",
+            "Month",
+            "Day",
+            "Obs",
+            "Seat",
+            "Area",
+            "State"
+        ],
+        "FieldValues": [
+            [
+                "2019"
+            ],
+            [
+                "09"
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ]
+        ],
+        "FieldValuesChecked": [
+            ["2"],
+            ["2"],
+            ["2"],
+            ["2"],
+            ["2"],
+            ["2"],
+            ["2"]
+        ]
+    },
+    "SpeciesNumber": 5,
+    "SpeciesValue0": "ADSWAN;M;true",
+    "SpeciesValue1": "CYGNET;C;false",
+    "SpeciesValue2": "SHCR;D;true",
+    "SpeciesValue3": "BEGCOUNT;,;false",
+    "SpeciesValue4": "ENDCOUNT;.;false",
+    "ObsMaxD" : 0.5
+}

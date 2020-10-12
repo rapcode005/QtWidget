@@ -1,0 +1,184 @@
+{
+    "addedFields": [
+        {
+            "field": "PLOT",
+            "value": ""
+        },
+        {
+            "field": "CAPTURE HISTORY",
+            "value": " "
+        },
+        {
+            "field": "LOCATION",
+            "value": " "
+        },
+        {
+            "field": "NESTID",
+            "value": " "
+        },
+        {
+            "field": "RECORDING",
+            "value": " "
+        },
+        {
+            "field": "COMMENTS",
+            "value": " "
+        }
+    ],
+    "flightDate": "02.03.2019 00:00:00",
+    "groupings": [
+        {
+            "name": "Open",
+            "shortcutKey": ""
+        },
+        {
+            "name": "deciduous",
+            "shortcutKey": ""
+        },
+        {
+            "name": "conifer",
+            "shortcutKey": ""
+        },
+        {
+            "name": "snag",
+            "shortcutKey": ""
+        }
+    ],
+    "initials": "RES",
+    "seat": "FL",
+    "sightings": [
+    ],
+    "species": [
+        {
+            "groupingEnabled": false,
+            "name": "Begflt",
+            "shortcutKey": "B"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Endflt",
+            "shortcutKey": "N"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Begarea",
+            "shortcutKey": "Shift+B"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Endarea",
+            "shortcutKey": "Shift+N"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "eaglet",
+            "shortcutKey": "E"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "egg",
+            "shortcutKey": "G"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "incubating",
+            "shortcutKey": "Shift+I"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Repaired",
+            "shortcutKey": "R"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Occupied",
+            "shortcutKey": "O"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Othersp",
+            "shortcutKey": "T"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Unrepaired",
+            "shortcutKey": "U"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Empty",
+            "shortcutKey": "Y"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Unoccupied",
+            "shortcutKey": "Shift+U"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Destroyed",
+            "shortcutKey": "D"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Notfound",
+            "shortcutKey": "Q"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "NotChecked",
+            "shortcutKey": "/"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "adult",
+            "shortcutKey": "A"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "immature",
+            "shortcutKey": "I"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Unknown",
+            "shortcutKey": "?"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "GPS",
+            "shortcutKey": "Shift+G"
+        },
+        {
+            "groupingEnabled": false,
+            "name": "Comment",
+            "shortcutKey": "C"
+        }
+    ],
+    "surveyFields": [
+        {
+            "field": "YEAR",
+            "value": "2019"
+        },
+        {
+            "field": "MO",
+            "value": "03"
+        },
+        {
+            "field": "DAY",
+            "value": "02"
+        },
+        {
+            "field": "PILOT",
+            "value": "PPT"
+        },
+        {
+            "field": "FO",
+            "value": "JEP"
+        },
+        {
+            "field": "RO",
+            "value": "RSA"
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "AdditionalFields": {
+        "FieldNames": [
+            "VisIndex",
+            "AltCat",
+            "ObsID",
+            "ObsCode",
+            "# GOEA >1yr",
+            "# GOEA 1yr",
+            "# GOEA Unk",
+            "# OthSp",
+            "CapHist",
+            "Activity",
+            "Distances",
+            "Plot Name",
+            "Comment"
+        ],
+        "FieldValues": [
+            [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            [
+                "107",
+                "150",
+                "high"
+            ],
+            [
+                "1"
+            ],
+            [
+                "1st obs",
+                "exact loc",
+                "begflt",
+                "endflt",
+                "begtran",
+                "endtran",
+                "begvis",
+                "begalt",
+                "gaztower",
+                "comment"
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+                "flapping",
+                "soaring",
+                "taking off",
+                "flushed",
+                "structure",
+                "ground",
+                "rock/cliff/kopje",
+                "tree",
+                "dead"
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ]
+        ],
+        "FieldValuesChecked": [
+            [
+                "2",
+                "2",
+                "2",
+                "2",
+                "2"
+            ],
+            [
+                "2",
+                "2",
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ]
+
+        ]
+    },
+    "GroupingsNumber": 1,
+    "GroupingsValue0": "Open;",
+    "Headers": {
+        "FieldNames": [
+            "Year",
+            "Pilot",
+            "Front",
+            "Right",
+            "Left",
+            "BCR",
+            "Transect",
+            "Direction",
+            "Distance"
+        ],
+        "FieldValues": [
+            [
+                "2019"
+            ],
+            [
+                "wow"
+            ],
+            [
+                "jep"
+            ],
+            [
+                "mco"
+            ],
+            [
+                "tst"
+            ],
+            [
+                "09",
+                "10",
+                "16",
+                "17"
+            ],
+            [
+            ],
+            [
+                "e",
+                "w"
+            ],
+            [
+            ]
+        ],
+        "FieldValuesChecked": [
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2",
+                "2",
+                "2",
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2",
+                "2"
+            ],
+            [
+                "2"
+            ]
+        ]
+    },
+    "SpeciesNumber": 12,
+    "SpeciesValue0": "GOEA;;false",
+    "SpeciesValue1": "BAEA;;false",
+    "SpeciesValue10": "COMMENT;;false",
+    "SpeciesValue11": "null;;false",
+    "SpeciesValue2": "OTHERSP;;false",
+    "SpeciesValue3": "BEGTRAN;;false",
+    "SpeciesValue4": "ENDTRAN;;false",
+    "SpeciesValue5": "BEGFLT;;false",
+    "SpeciesValue6": "ENDFLT;;false",
+    "SpeciesValue7": "VIS;;false",
+    "SpeciesValue8": "BEGALT;;false",
+    "SpeciesValue9": "HAZTOWER;;false",
+    "ObsMaxD" : 0.5,
+    "Changes" : false
+}

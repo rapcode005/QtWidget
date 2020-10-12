@@ -1,0 +1,146 @@
+{
+    "AdditionalFields": {
+        "FieldNames": [
+            "CapHist",
+            "Location",
+            "NestID",
+            "Plot Name",
+            "Comment"
+        ],
+        "FieldValues": [
+            [
+            ],
+            [
+                "conifer",
+                "deciduous",
+                "snag",
+                "structure",
+                "ground",
+                "flying",
+                "perched"
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ]
+        ],
+        "FieldValuesChecked": [
+            [
+                "2"
+            ],
+            [
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ]
+        ]
+    },
+    "GroupingsNumber": 1,
+    "GroupingsValue0": "Open;",
+    "Headers": {
+        "FieldNames": [
+            "Year",
+            "Month",
+            "Day",
+            "Pilot",
+            "Front",
+            "Rear",
+            "AreaID",
+            "PlotName"
+        ],
+        "FieldValues": [
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+                "cb",
+                "ce",
+                "cw",
+                "fl",
+                "la",
+                "ll",
+                "mw",
+                "nr"
+            ],
+            [
+            ]
+        ],
+        "FieldValuesChecked": [
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2"
+            ],
+            [
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2"
+            ],
+            [
+                "2"
+            ]
+        ]
+    },
+    "SpeciesNumber": 17,
+    "SpeciesValue0": "BEGFLT;;false",
+    "SpeciesValue1": "ENDFLT;;false",
+    "SpeciesValue10": "UNREPAIRED;;false",
+    "SpeciesValue11": "EMPTY;;false",
+    "SpeciesValue12": "UNOCCUPIED;;false",
+    "SpeciesValue13": "DESTROYED;;false",
+    "SpeciesValue14": "NOTFOUND;;false",
+    "SpeciesValue15": "NOTCHECKED;;false",
+    "SpeciesValue16": "COMMENT;;false",
+    "SpeciesValue2": "BEGAREA;;false",
+    "SpeciesValue3": "ENDAREA;;false",
+    "SpeciesValue4": "EAGLET;;false",
+    "SpeciesValue5": "EGG;;false",
+    "SpeciesValue6": "INCUBATING;;false",
+    "SpeciesValue7": "REAIRED;;false",
+    "SpeciesValue8": "OCCUPIED;;false",
+    "SpeciesValue9": "OTHERSP;;false",
+    "ObsMaxD" : 0.5,
+    "Changes" : false
+}
